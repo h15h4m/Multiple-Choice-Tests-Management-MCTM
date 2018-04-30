@@ -14,27 +14,27 @@ Figure 1. Dashboard.
 Figure 2. Question banks and tests.
 
 ![alt text](admin_bankaddquestions.png)
-Figure 1. Adding questions to the bank.
+Figure 3. Adding questions to the bank.
 
 ![alt text](admin_viewtest.png)
-Figure 1. View test.
+Figure 4. View test.
 
 ![alt text](admin_testsettings.png)
-Figure 1. Test settings.
+Figure 5. Test settings.
 
 ![alt text](admin_students.png)
-Figure 1. Students.
+Figure 6. Students.
 
 ![alt text](admin_viewstudent.png)
-Figure 1. View student.
+Figure 7. View student.
 
 ### Student Side
 
 ![alt text](student_dashboard.png)
-Figure 1. Dashboard.
+Figure 8. Dashboard.
 
 ![alt text](student_completedtests.png)
-Figure 1. Completed Tests.
+Figure 9. Completed Tests.
 
 ![alt text](student_test.png)
-Figure 1. Student Test.
+Figure 10. Student Test.
